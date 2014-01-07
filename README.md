@@ -3,6 +3,8 @@ iv
 
 A terminal-based vector algebra calculator written in OCaml. It is inspired by a subset of Iversonian notation but with traditional mathematical operator precedence.
 
+To build, it needs Jane Street's core library; which can be obtained via opam. More specifically: opam install core
+
 Examples
 --------
 
